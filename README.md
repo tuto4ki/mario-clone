@@ -1,1 +1,2 @@
-# mario-clone
+# rs-clone
+RS-clone
